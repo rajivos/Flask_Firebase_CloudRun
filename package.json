@@ -1,0 +1,23 @@
+{
+  "name": "Flask_Firebase_CloudRun",
+  "version": "1.0.0",
+  "description": "Deploying a python web app using Firebase hosting with Cloud Run",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajiv-Khushiram/Flask_Firebase_CloudRun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajiv-Khushiram/Flask_Firebase_CloudRun/issues"
+  },
+  "homepage": "https://github.com/Rajiv-Khushiram/Flask_Firebase_CloudRun#readme",
+  "devDependencies": {
+    "firebase-tools": "^7.14.0"
+  }
+}
